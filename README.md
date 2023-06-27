@@ -7,8 +7,7 @@
       var videoId = Ahc-zl2vp_M;
 
       // Redirecione para o último vídeo
-      
-  window.location.href = "https://www.youtube.com/watch?v=" + videoId;
+      window.location.href = "https://www.youtube.com/watch?v=" + videoId;
     }
   </script>
 </head>
